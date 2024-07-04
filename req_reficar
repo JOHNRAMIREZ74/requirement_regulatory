@@ -1,0 +1,45 @@
+ID	Tipo	Enunciado	Descripción
+REQFUN-01	Requisito Funcional	Fluido de proceso	El fluido de proceso de entrada al equipo debe ser una alimentación combinada de hidrocarburos.
+REQFUN-02	Requisito Funcional	Tasa de flujo normal	La tasa de flujo normal de entrada del fluido debe ser 1020 GPM / 35000 BPD.
+REQFUN-03	Requisito Funcional	Tasa de flujo máxima	La tasa de flujo máxima de entrada del fluido debe ser 1167 GPM / 40000 BPD.
+REQFUN-04	Requisito Funcional	Eliminación de partículas	El equipo debe eliminar partículas mayores a 30 micras del fluido con una eficiencia de remoción superior al 90%.
+REQFUN-05	Requisito Funcional	Tipo de operación	El equipo debe permitir operación manual y lavado a contracorriente.
+REQFUN-06	Requisito Funcional	Cantidad requerida	Se requieren 2 unidades del equipo.
+REQFUN-07	Requisito Funcional	Posición	El equipo debe instalarse en posición vertical.
+REQFUN-08	Requisito Funcional	Elementos filtrantes	Los elementos filtrantes deben ser cartuchos metálicos lavables SS 316.
+REQFUN-09a	Requisito Funcional	Contenido de sólidos (mínimo)	El fluido de entrada debe contener sólidos en una concentración mínima de 1000 ppm-peso.
+REQFUN-09b	Requisito Funcional	Contenido de sólidos (normal)	El fluido de entrada debe contener sólidos en una concentración normal de 1650 ppm-peso.
+REQFUN-09c	Requisito Funcional	Contenido de sólidos (máximo)	El fluido de entrada debe contener sólidos en una concentración máxima de 3000 ppm-peso.
+REQFUN-10	Requisito Funcional	Soportes y plataformas	El equipo debe ser suministrado con soportes tipo patas y plataformas operativas y de mantenimiento.
+REQFUN-11	Requisito Funcional	Ventilaciones y drenajes	Las carcasas de los filtros deben contar con ventilaciones y drenajes de punto bajo.
+REQFUN-12	Requisito Funcional	Proceso de limpieza	Después de alcanzar la caída de presión máxima permitida, se debe realizar un drenaje con nitrógeno y posteriormente un lavado con vapor a 50 psig y 300°F para limpiar el equipo.
+REQFUN-13	Requisito Funcional	Válvulas de alivio	Las válvulas de alivio para el caso de incendio deben ser dimensionadas y suministradas con by-pass y visor para cada filtro, según lo indicado en el P&ID 08-DG-PR05-0058.
+REQCAL-01	Requisito de Calidad	Presión de entrada	La presión de entrada del fluido debe ser 85 psig en condiciones normales.
+REQCAL-02	Requisito de Calidad	Presión de diseño	La presión de diseño del equipo debe ser 235 psig.
+REQCAL-03	Requisito de Calidad	Temperatura de entrada	La temperatura de entrada del fluido debe ser 170°F en condiciones normales.
+REQCAL-04	Requisito de Calidad	Temperatura máxima	La temperatura máxima de entrada del fluido al equipo debe ser 300°F.
+REQCAL-05	Requisito de Calidad	Caída de presión límite (limpio)	La caída de presión del fluido a la salida en condición limpia no debe exceder 1 psi.
+REQCAL-06	Requisito de Calidad	Caída de presión límite (sucio)	La caída de presión del fluido a la salida en condición sucia no debe exceder 15 psi en más de 24 horas.
+REQCAL-07	Requisito de Calidad	Código de diseño	El equipo debe cumplir con el Código ASME BPVC, Sección VIII Div I, con estampado N.B.
+REQCAL-08	Requisito de Calidad	Temperatura de diseño	La temperatura mínima de diseño del metal debe ser 20°F.
+REQCAL-09	Requisito de Calidad	Radiografía	Se requiere una radiografía mínima RT-3.
+REQCAL-10	Requisito de Calidad	Eficiencia de junta	La eficiencia de la junta debe ser 85%.
+REQCAL-11	Requisito de Calidad	Alivio de esfuerzos	El alivio de esfuerzos debe realizarse mediante tratamiento térmico según el código aplicable.
+REQCAL-12	Requisito de Calidad	Diseño para viento	El equipo debe diseñarse para resistir vientos según UBC 1997 & NSR-98, 80MPH, Exp.=D, I=1.15.
+REQCAL-13	Requisito de Calidad	Diseño sísmico	El equipo debe diseñarse para resistir sismos según UBC 1997 & NSR-98, Tipo de suelo SD, z=0.15, Nv=1.0.
+REQCAL-14	Requisito de Calidad	Preparación de superficie	La preparación de la superficie externa debe realizarse según especificación 000-SP-MU10-0017.
+REQCAL-15	Requisito de Calidad	Pintura	La pintura del equipo debe aplicarse según especificación 000-SP-MU10-0017.
+REQCAL-16	Requisito de Calidad	Protección contra incendios	El equipo debe contar con protección contra incendios según especificación 000-SP-MU10-0019.
+REQCAL-17	Requisito de Calidad	Aislamiento	Se requiere un aislamiento de 2.5" (instalado por otros).
+REQCAL-18	Requisito de Calidad	Calificaciones del personal	El personal involucrado en la fabricación y pruebas del equipo debe contar con las certificaciones y calificaciones requeridas.
+REQCAL-19	Requisito de Calidad	Trazabilidad de materiales	Se debe garantizar la trazabilidad de los materiales y componentes utilizados en la construcción del equipo.
+REQCAL-20	Requisito de Calidad	Documentación entregable	Se deben entregar los manuales, certificados, informes de pruebas y demás documentación requerida junto con el equipo.
+REQCAL-21	Requisito de Calidad	Data Report	Se debe entregar un Data Report firmado por un inspector, incluyendo: Reporte de la Junta Nacional, Procedimiento de Soldadura, Certificado de Soldadura, Certificado de Prueba Hidrostática, Certificado de Prueba de Materiales, Reporte de Radiografía y Placa con sello "U" y número de serie.
+REQCAL-22	Requisito de Calidad	Elementos filtrantes de repuesto	El proveedor debe suministrar un juego de elementos filtrantes de repuesto.
+REQRES-01	Restricción	Gravedad específica	La gravedad específica del fluido a la temperatura de entrada debe ser 0.784.
+REQRES-02	Restricción	Viscosidad	La viscosidad del fluido a la temperatura de entrada debe ser 0.977 cP.
+REQRES-03a	Restricción	Material de cuerpo y cabezales	El cuerpo y cabezales del equipo deben construirse con ASTM 516 Gr 70.
+REQRES-03b	Restricción	Material de bridas y forjados	Las bridas y forjados deben construirse con ASME B16.5, ASTM A 105.
+REQRES-03c	Restricción	Material de conexiones de tubería	Las conexiones de tubería deben construirse con ASTM A 106 Gr B, ASME B36.10.
+REQRES-03d	Restricción	Material de pernos de brida	Los pernos de brida deben ser A193 B7 / A194 2H.
+REQRES-03e	Restricción	Material de empaquetaduras	Las empaquetaduras de brida deben ser del tipo espiral.
